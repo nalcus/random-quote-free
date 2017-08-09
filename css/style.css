@@ -1,0 +1,36 @@
+body {
+  background:LawnGreen;
+}
+
+h1 {
+  text-align:center;
+  color:white;
+}
+
+#quoteContainer {
+  background:blue;
+  width: 60%;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 10px;
+}
+
+#buttonContainer {
+  width: 60%;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 10px;
+  text-align:right;
+}
+
+#quoteText {
+
+  color:white;
+  text-align:center;
+}
+
+#quoteAuthor {
+  margin-right:5em;
+  color:LightGrey;
+  text-align:right;
+}
