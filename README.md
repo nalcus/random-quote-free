@@ -1,4 +1,4 @@
-#Random Quote Generator for freecodecamp
-###by Nicholas Alcus
+# Random Quote Generator for freecodecamp
+### by Nicholas Alcus
 
-####built using codepen.io
+#### built using codepen.io
